@@ -1,0 +1,45 @@
+﻿<package>
+
+  <id>7</id>
+
+  <name>jamfprotect.1.0.2.76.pkg</name>
+
+  <category>Compliance</category>
+
+  <filename>jamfprotect.1.0.2.76.pkg</filename>
+
+  <info>Jamf Protect agent installation to enroll into acmesoft.protect.jamfcloud.com</info>
+
+  <notes>Uploaded by MWoodruff on 12Dec2019</notes>
+
+  <priority>10</priority>
+
+  <reboot_required>false</reboot_required>
+
+  <fill_user_template>false</fill_user_template>
+
+  <fill_existing_users>false</fill_existing_users>
+
+  <boot_volume_required>false</boot_volume_required>
+
+  <allow_uninstalled>false</allow_uninstalled>
+
+  <os_requirements/>
+
+  <required_processor>None</required_processor>
+
+  <hash_type>MD5</hash_type>
+
+  <hash_value>1b62a37bff874ed5408c510944eadcb7</hash_value>
+
+  <switch_with_package>Do Not Install</switch_with_package>
+
+  <install_if_reported_available>false</install_if_reported_available>
+
+  <reinstall_option>Do Not Reinstall</reinstall_option>
+
+  <triggering_files/>
+
+  <send_notification>false</send_notification>
+
+</package>
